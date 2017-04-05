@@ -16,7 +16,7 @@ public class Test {
 			System.out.println("結果（short型）     ：" + String.valueOf(nNumber));
 		} catch (Exception e) {
 			// 結果表示（エラー発生時）
-			System.out.println("結果（short型）     ：" + e.toString());
+			System.out.println("結果です。（short型）     ：" + e.toString());
 		}
 		// ----------------------------------------
 		// 計算処理（整数（int型））
