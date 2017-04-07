@@ -13,7 +13,7 @@ public class Test {
 				nNumber += (short) 0.3;
 			}
 			// 結果表示（正常時）
-			System.out.println("結果でした（short型）     ：" + String.valueOf(nNumber));
+			System.out.println("結果でした!（short型）     ：" + String.valueOf(nNumber));
 		} catch (Exception e) {
 			// 結果表示（エラー発生時）
 			System.out.println("結果です。（short型）     ：" + e.toString());
